@@ -1,6 +1,6 @@
 # News Highlights
 
-This is the fourth Independent project for Moringa Core, June 22nd 2018.
+by [Lewis Mutuma](https://mutumamutuma.github.io/Portfolio/)
 
 ## Description
 
