@@ -8,4 +8,5 @@ class Config:
     MOVIE_API_BASE_URL = 'https://newsapi.org/v2/sources?language=en&apiKey={}'
 
 class DevConfig:
+    DEBUG = True
     pass
