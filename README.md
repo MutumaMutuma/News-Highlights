@@ -21,7 +21,7 @@ View the complete site [here](gfhgv )
 
 ### Contact Information
 
-lewismutuma1000@gmail.com | [FaceBook](www.facebook.com)
+[lewismutuma1000@gmail.com](gmail.com) | [FaceBook](www.facebook.com)
 
 ## Technologies Used
 
