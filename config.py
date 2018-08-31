@@ -12,3 +12,11 @@ class ProdConfig(Config):
 class DevConfig(Config):
     DEBUG = True
     pass
+
+config_options = {
+'development':DevConfig,
+'production':ProdConfig
+}
+'''
+We then create a dictionary config_options to help us access different configuration option classes.
+'''
